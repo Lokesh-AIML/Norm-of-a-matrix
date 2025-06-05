@@ -14,8 +14,6 @@ Step 3: Print the norm of the matrix in two decimal places.
 Step 4: End the program.
 ## Program:
 ```Python
-# Register No: 21222410029
-# Developed By: Kamlesh.Y
 
 # 1-Norm of a Matrix
 
